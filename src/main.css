@@ -1,0 +1,15 @@
+* {
+  background-color: goldenrod;
+}
+
+p {
+  background-color: #fff;
+  height: 20vh;
+}
+
+img {
+  /* any comment I want */
+  height: 25vh;
+  /* vh is for viewport height  */
+  transform: rotate(20deg);
+}
